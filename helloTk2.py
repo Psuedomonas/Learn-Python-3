@@ -25,7 +25,7 @@ class Application(Frame):
         self.hi_there.pack({"side": "left"})
 
         #muh ha ha ha ha
-        #me learny program motha fika
+        #me learny program
         self.tog = Button(self)
         self.tog["text"] = "I will say what I need to say"
         self.tog["fg"] = "blue"
