@@ -1,3 +1,6 @@
+'''
+I did not write this code, this is an example likely provided by Sawroop or another tutorial creater
+'''
 # Sonar
 
 import random
